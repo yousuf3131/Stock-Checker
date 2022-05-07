@@ -1,2 +1,0 @@
-print("Mynameissufyan")
-print("MynameisFurqan")
